@@ -20,4 +20,6 @@ Notes regarding Part 1 :
       2. For example : curl "http://127.0.0.1:5000/top_employees?N=3".  Just write this http://127.0.0.1:5000/top_employees?N=3 in the URL (You can choose any number not just 3 of course).
       3. To get the number of employees in a specific department, you need to provide the X parameter.
       4. For example : curl "http://127.0.0.1:5000/employees_in_department?X=Finance"  The same as point 2.
-         
+
+Notes regarding Part 2 :
+* In the code.py file, you will find the model with metrics, and there is a final block. I made it as a comment, but if you want to predict new prices for any house, just uncomment it, and it will run successfully. It just asks you for information about your house, which you need to predict its price.
