@@ -34,7 +34,8 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-## you can now test your /top_employees and /employees_in_department endpoints using various tools, For example like curl.
+''' Instructions to test this app '''
+# you can now test your /top_employees and /employees_in_department endpoints using various tools, For example like curl.
 # Testing /top_employees Endpoint:
   # To get the top N highest-paid employees, you can make a GET request to the /top_employees endpoint with the optional parameter N.
   # curl "http://127.0.0.1:5000/top_employees?N=3"
@@ -43,7 +44,6 @@ if __name__ == '__main__':
   # To get the number of employees in a specific department, you need to provide the X parameter.
   # curl "http://127.0.0.1:5000/employees_in_department?X=Finance"
 
-# You can run these curl commands in your terminal to send HTTP requests to your Flask application and see the responses.
-  
+'''You can write these url in your brower to send HTTP requests to your Flask application and see the responses. ''' 
 #http://127.0.0.1:5000/employees_in_department?X=Finance
 #http://127.0.0.1:5000/top_employees?N=3
