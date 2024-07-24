@@ -18,9 +18,6 @@ Notes regarding Part 1 :
 Notes regarding Part 2 :
 * In the code.py file, you will find the model with metrics, and there is a final block. I made it as a comment, but if you want to predict new prices for any house, just uncomment it, and it will run successfully. It will asks you for information about your house, which you need to predict its price and it will give you the predicted price.
 
-Notes regarding Part 3 :
-* you can see attched output
-
 ## Technologies i used
-* Python (Libraries)
-* PowerBI
+* Python for programming tasks
+* PowerBI for data visualization tasks
