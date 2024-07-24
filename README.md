@@ -13,10 +13,10 @@ Notes regarding Part 1 :
     * you can test your /top_employees and /employees_in_department endpoints using various tools, For example like curl.
     * And the answers will return as json format
     * you can use these curl for two endpoints when you try to test :
-        *1 To get the top N highest-paid employees, you can make a GET request to the /top_employees endpoint with the optional parameter N.
-        *2 curl "http://127.0.0.1:5000/top_employees?N=3".  Just write this http://127.0.0.1:5000/top_employees?N=3 in the URL (You can choose any number not just 3 of course)
-        *3 To get the number of employees in a specific department, you need to provide the X parameter.
-        *4 curl "http://127.0.0.1:5000/employees_in_department?X=Finance"  The same as point 2.
+          *1 To get the top N highest-paid employees, you can make a GET request to the /top_employees endpoint with the optional parameter N.
+          *2 curl "http://127.0.0.1:5000/top_employees?N=3".  Just write this http://127.0.0.1:5000/top_employees?N=3 in the URL (You can choose any number not just 3 of course)
+          *3 To get the number of employees in a specific department, you need to provide the X parameter.
+          *4 curl "http://127.0.0.1:5000/employees_in_department?X=Finance"  The same as point 2.
 
   
 
