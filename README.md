@@ -9,6 +9,7 @@ Its contents :
 * Notebook
 
 Notes regarding Part 1 :
+* You can just take the code copy and run it without download the dataset.csv file, the code includes the data. i just put the dataset for clarrifcation.
 * I provided 2 datasets (the orignal one, and clean one), code.py for python code, and app.py for flask app
 * In the files there are comments illustrate everything.
 * In the APP flask :
