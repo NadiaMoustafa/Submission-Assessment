@@ -11,7 +11,7 @@ Its contents :
 * Notebook for all coding tasks, but API App (because it must be locally)  - it's additional
   
 Notes regarding Part 1 :
-* You can see the code for part 1.1, part 1.2 in one file called 1.1 1.2 Code.py.
+* You can see the code for part 1.1, part 1.2 in one file called 1.1, 1.2 Code.py.
 * I provided the dataset that used in API App, in case you want to run the api app first or before the code.py.
 * At the end of API APP.py ( flask ) you will see the comments to test the endpoints using curl. like :
       1. To get the top N highest-paid employees, you can make a GET request to the /top_employees endpoint with the optional parameter N.
