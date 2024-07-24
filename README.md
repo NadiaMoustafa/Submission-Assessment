@@ -8,7 +8,7 @@ Its contents :
 
 * Readme file
 
-* Notebook for all coding tasks, but API App (because it must be locally)  - it's additional
+* Assessment Notebook for all coding tasks, but API App (because it must be locally)  - it's additional
   
 Notes regarding Part 1 :
 * You can see the code for part 1.1, part 1.2 in one file called 1.1, 1.2 Code.py.
