@@ -45,5 +45,5 @@ if __name__ == '__main__':
   # curl "http://127.0.0.1:5000/employees_in_department?X=Finance"
 
 '''You can write these url in your brower to send HTTP requests to your Flask application and see the responses. ''' 
-#http://127.0.0.1:5000/employees_in_department?X=Finance
-#http://127.0.0.1:5000/top_employees?N=3
+#http://127.0.0.1:5000/employees_in_department?X=Finance (you can write any department not just finance of course)
+#http://127.0.0.1:5000/top_employees?N=3 (you can write any number not just 3 as well)
